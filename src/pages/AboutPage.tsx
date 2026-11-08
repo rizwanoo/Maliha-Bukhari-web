@@ -51,7 +51,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigateToBooking }) => 
           <div className="lg:col-span-5">
             <div className="luxury-image-frame border border-[#E8E0D6] shadow-2xl">
               <img
-                src="/src/assets/images/founder_maliha_portrait_1794130920414.jpg"
+                src="/assets/images/founder_maliha.jpg"
                 alt="Maliha Bukhari - Founder & Master Artist"
                 className="w-full h-[540px] object-cover"
                 referrerPolicy="no-referrer"
@@ -127,7 +127,7 @@ export const AboutPage: React.FC<AboutPageProps> = ({ onNavigateToBooking }) => 
         <div className="grid grid-cols-1 lg:grid-cols-12 gap-12 items-center">
           <div className="lg:col-span-6 luxury-image-frame border border-[#E8E0D6]">
             <img
-              src="/src/assets/images/studio_interior_luxury_1794130918903.jpg"
+              src="/assets/images/studio_interior.jpg"
               alt="Maliha Bukhari Luxury Studio Interior"
               className="w-full h-[480px] object-cover"
               referrerPolicy="no-referrer"

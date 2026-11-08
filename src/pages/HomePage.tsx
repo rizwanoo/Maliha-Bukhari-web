@@ -14,7 +14,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
         {/* Full-bleed high-resolution photography */}
         <div className="absolute inset-0 z-0">
           <img
-            src="/src/assets/images/hero_bridal_editorial_1794130917947.jpg"
+            src="/assets/images/hero_bridal.jpg"
             alt="Maliha Bukhari Luxury Bridal Artistry"
             className="w-full h-full object-cover object-top scale-105 animate-[fadeIn_1.2s_ease-out]"
             referrerPolicy="no-referrer"
@@ -110,7 +110,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
           <div className="lg:col-span-6 relative">
             <div className="luxury-image-frame shadow-xl border border-[#E8E0D6]">
               <img
-                src="/src/assets/images/studio_interior_luxury_1794130918903.jpg"
+                src="/assets/images/studio_interior.jpg"
                 alt="Maliha Bukhari Luxury Studio Interior Mall 2 Lahore"
                 className="w-full h-[460px] sm:h-[540px] object-cover"
                 referrerPolicy="no-referrer"
@@ -154,7 +154,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
             <div className="flex flex-col bg-[#FAF8F5] border border-[#E8E0D6] overflow-hidden group">
               <div className="h-72 overflow-hidden relative">
                 <img
-                  src="/src/assets/images/service_bridal_glam_1794130919630.jpg"
+                  src="/assets/images/service_bridal.jpg"
                   alt="Bridal Artistry by Maliha Bukhari"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                   referrerPolicy="no-referrer"
@@ -188,7 +188,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
             <div className="flex flex-col bg-[#FAF8F5] border border-[#E8E0D6] overflow-hidden group">
               <div className="h-72 overflow-hidden relative">
                 <img
-                  src="/src/assets/images/service_hair_balayage_1794130920523.jpg"
+                  src="/assets/images/service_hair.jpg"
                   alt="Hair Balayage & Colour by Maliha Bukhari"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                   referrerPolicy="no-referrer"
@@ -222,7 +222,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
             <div className="flex flex-col bg-[#FAF8F5] border border-[#E8E0D6] overflow-hidden group">
               <div className="h-72 overflow-hidden relative">
                 <img
-                  src="/src/assets/images/studio_interior_luxury_1794130918903.jpg"
+                  src="/assets/images/studio_interior.jpg"
                   alt="Skin Glow & Spa by Maliha Bukhari"
                   className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-700"
                   referrerPolicy="no-referrer"
@@ -262,7 +262,7 @@ export const HomePage: React.FC<HomePageProps> = ({ onNavigate }) => {
           <div className="lg:col-span-5">
             <div className="luxury-image-frame border border-[#E8E0D6] shadow-xl">
               <img
-                src="/src/assets/images/founder_maliha_portrait_1794130920414.jpg"
+                src="/assets/images/founder_maliha.jpg"
                 alt="Maliha Bukhari - Founder and Master Beauty Artist"
                 className="w-full h-[520px] object-cover"
                 referrerPolicy="no-referrer"

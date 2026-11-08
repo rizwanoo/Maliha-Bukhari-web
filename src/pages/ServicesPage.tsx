@@ -25,15 +25,15 @@ export const ServicesPage: React.FC<ServicesPageProps> = ({ onNavigateToBooking 
   const getCategoryHeroImage = () => {
     switch (activeCategory) {
       case 'bridal':
-        return '/src/assets/images/service_bridal_glam_1794130919630.jpg';
+        return '/assets/images/service_bridal.jpg';
       case 'hair':
-        return '/src/assets/images/service_hair_balayage_1794130920523.jpg';
+        return '/assets/images/service_hair.jpg';
       case 'skin':
       case 'nails':
       case 'spa':
-        return '/src/assets/images/studio_interior_luxury_1794130918903.jpg';
+        return '/assets/images/studio_interior.jpg';
       default:
-        return '/src/assets/images/studio_interior_luxury_1794130918903.jpg';
+        return '/assets/images/studio_interior.jpg';
     }
   };
 

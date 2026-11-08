@@ -160,7 +160,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     title: "Haute Couture Bridal Vision",
     category: "bridal",
     categoryName: "Bridal Artistry",
-    image: "/src/assets/images/hero_bridal_editorial_1794130917947.jpg",
+    image: "/assets/images/hero_bridal.jpg",
     aspect: "landscape",
     caption: "Ivory and antique gold bridal styling by Maliha Bukhari with hand-draped dupatta and regal heritage jewelry."
   },
@@ -169,7 +169,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     title: "Signature Studio Sanctuary",
     category: "studio",
     categoryName: "Studio Ambience",
-    image: "/src/assets/images/studio_interior_luxury_1794130918903.jpg",
+    image: "/assets/images/studio_interior.jpg",
     aspect: "landscape",
     caption: "The elegant 6th floor studio at Mall 2, Canal Road, featuring arched brass mirrors, blush velvet seating, and soft ambient lighting."
   },
@@ -178,7 +178,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     title: "Traditional Barat Glamour",
     category: "bridal",
     categoryName: "Bridal Artistry",
-    image: "/src/assets/images/service_bridal_glam_1794130919630.jpg",
+    image: "/assets/images/service_bridal.jpg",
     aspect: "portrait",
     caption: "Exquisite Barat bridal makeup featuring seamless champagne sculpt, warm rose lips, and traditional bridal ornamentation."
   },
@@ -187,7 +187,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     title: "Honey Caramel Balayage",
     category: "hair",
     categoryName: "Hair Transformation",
-    image: "/src/assets/images/service_hair_balayage_1794130920523.jpg",
+    image: "/assets/images/service_hair.jpg",
     aspect: "portrait",
     caption: "Seamless hand-blended warm honey balayage with voluminous silk waves, styled to perfection."
   },
@@ -196,7 +196,7 @@ export const GALLERY_ITEMS: GalleryItem[] = [
     title: "Maliha Bukhari — Founder & Master Artist",
     category: "studio",
     categoryName: "Artisan Profile",
-    image: "/src/assets/images/founder_maliha_portrait_1794130920414.jpg",
+    image: "/assets/images/founder_maliha.jpg",
     aspect: "portrait",
     caption: "Founder Maliha Bukhari at her flagship Canal Road studio in Lahore, dedicated to bespoke beauty craftsmanship."
   }
